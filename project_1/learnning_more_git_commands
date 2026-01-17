@@ -1,0 +1,7 @@
+git revert
+git stash
+git tags
+git fetch
+git rebase
+git cherry-pick
+git blame
