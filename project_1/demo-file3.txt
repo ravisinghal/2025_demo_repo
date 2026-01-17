@@ -1,0 +1,1 @@
+upstream branch - A remote branch that your local branch is linked to
