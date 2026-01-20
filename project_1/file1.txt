@@ -1,2 +1,4 @@
 this is first file 
-i will learn git 
+i will learn git
+
+Almost all important topics for git covered
