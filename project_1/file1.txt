@@ -2,3 +2,5 @@ this is first file
 i will learn git
 
 Almost all important topics for git covered
+
+learning amend command

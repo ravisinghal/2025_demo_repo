@@ -1,6 +1,1 @@
 fetch
-<<<<<<< HEAD
-
-fetch 2 again added
-=======
->>>>>>> 3b4744da26c2e56af839123f7519e0303c1fecb3
